@@ -16,13 +16,13 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'CookieRun';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205@1.0/CookieRun.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
 
+@font-face {
+    font-family: 'CookieRun-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/CookieRun-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 /* 폰트 클래스 */
 .omyu-pretty {
   font-family: 'omyu_pretty';
